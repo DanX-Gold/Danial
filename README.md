@@ -5,10 +5,6 @@
   Passionate about building modern and responsive web applications.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanX-Gold&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-</p>
-
 ---
 
 ## 🚀 About Me
