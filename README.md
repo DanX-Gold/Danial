@@ -48,6 +48,9 @@
   <a href="https://github.com/DanX-Gold">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="https://t.me/DANIEL_S_2010">
+    <img src="https://img.shields.io/badge/Telegram-38BDF8?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
