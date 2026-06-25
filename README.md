@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Front-End Development**
+- 🌱 Currently learning **Frontend Development**
 - 💻 Working with **HTML, CSS, JavaScript**
 - 🛠️ Using **Git, GitHub, VS Code & WebStorm**
 - 🎯 Goal: Become a Full Stack Developer
